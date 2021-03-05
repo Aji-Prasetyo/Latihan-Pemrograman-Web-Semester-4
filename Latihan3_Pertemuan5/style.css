@@ -1,0 +1,31 @@
+/* Dokumen CSS */
+
+.tulisan_miring  {
+	font-family: Verdana, Arial, Helvatica, sans-serif;
+	font-size: 12px;
+	font-style: italic;
+}
+
+.cetak_tabel {
+	font-family: Verdana, Arial, Helvatica, sans-serif;
+	font-size: 15px;
+	font-style: italic;
+	font-weight: bold;
+	color: skyblue;
+}
+
+.id .14pt {
+	font-size: 14pt;
+}
+
+p {
+	font-family: Verdana, Arial, Helvatica, sans-serif;
+}
+
+td	{
+	font-weight: bold;
+}
+
+a {
+	font-size: 24px;
+}
